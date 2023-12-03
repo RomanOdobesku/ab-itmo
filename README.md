@@ -1,2 +1,1 @@
-# ab-itmo
-A/B тестирование и Reliable ML
+# A/B тестирование и Reliable ML
